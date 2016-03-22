@@ -1,4 +1,7 @@
-# PHPBrake [![Circle CI](https://circleci.com/gh/airbrake/phpbrake.svg?style=svg)](https://circleci.com/gh/airbrake/phpbrake)
+# PHPBrake
+
+[![Build Status](https://api.travis-ci.org/airbrake/phpbrake.svg)](https://travis-ci.org/airbrake/phpbrake)
+[![Coding Style](https://img.shields.io/badge/phpcs-PSR--2-brightgreen.svg)](http://www.php-fig.org/psr/psr-2/)
 
 ![PHPBrake](http://f.cl.ly/items/0e2f2R2I0i081N2w3R0a/php.jpg)
 
